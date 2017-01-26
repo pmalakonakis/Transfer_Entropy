@@ -1,0 +1,12 @@
+package transferentropy;
+
+import com.maxeler.maxcompiler.v2.build.EngineParameters;
+
+public class TransferEntropyEngineParameters extends EngineParameters {
+
+	public TransferEntropyEngineParameters(String[] args) {
+		super(args);
+	}
+
+
+}
